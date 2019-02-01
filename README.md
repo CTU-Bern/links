@@ -12,3 +12,4 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [rcall - call R from within Stata](https://github.com/haghish/rcall)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
     
+Feel free to add to this list.
