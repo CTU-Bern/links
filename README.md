@@ -12,5 +12,8 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [rcall - call R from within Stata](https://github.com/haghish/rcall)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [ftools - faster variant of Stata's collapse/by/egen (particularly useful for larger datasets)](https://github.com/sergiocorreia/ftools)
+* R
+  * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
+    * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
     
 Feel free to add to this list.
