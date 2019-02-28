@@ -11,5 +11,6 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [github - install Stata packages from github](https://github.com/haghish/markdoc)
   * [rcall - call R from within Stata](https://github.com/haghish/rcall)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
+  * [ftools - faster variant of Stata's collapse/by/egen (particularly useful for larger datasets)](https://github.com/sergiocorreia/ftools)
     
 Feel free to add to this list.
