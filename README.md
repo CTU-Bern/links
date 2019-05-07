@@ -17,5 +17,9 @@ As it is not possible for an organization to star/follow repositories/organizati
 * R
   * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
     * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
-    
+* Misc
+  * [StatTag - a method to make dynamic WORD documents](https://github.com/stattag)
+  
+  
+  
 Feel free to add to this list.
