@@ -2,9 +2,9 @@
 As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users.
 
 * [SCTO Organisation](https://github.com/SwissClinicalTrialOrganisation)
-  * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_R)
-  * [SecuTrial Recipes (Enhanced version)](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/)
-  * [SecuTrial Recipes (GitHub version)](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes)
+  * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
+  * [SecuTrial Recipes (Enhanced version)](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/)
+  * [SecuTrial Recipes (GitHub version)](https://github.com/SwissClinicalTrialOrganisation/secuTrial_recipes)
 * Stata
   * [markdoc - literate programming for Stata](https://github.com/haghish/markdoc)
   * [weaver - more dynamic docs from Stata (more like a log file though)](https://github.com/haghish/weaver)
