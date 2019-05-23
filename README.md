@@ -12,6 +12,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [rcall - call R from within Stata](https://github.com/haghish/rcall)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [ftools - faster variant of Stata's collapse/by/egen (particularly useful for larger datasets)](https://github.com/sergiocorreia/ftools)
+  * [gtools - even faster variant of Stata's collapse/by/egen (particularly useful for larger datasets)](https://github.com/mcaceresb/stata-gtools)
   * [World banks iefieldkit - commands for data collection](https://github.com/worldbank/iefieldkit)
   * [World banks ietoolkit - commands for impact evaluation](https://github.com/worldbank/ietoolkit)
 * R
