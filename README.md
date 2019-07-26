@@ -20,6 +20,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [flowchart - Alan's flowchart package - create flowcharts without needing to play around with the layout (much)](https://github.com/CTU-Bern/flowchart)
+  * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   
