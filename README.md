@@ -23,7 +23,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
-  
+  * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
   
   
 Feel free to add to this list.
