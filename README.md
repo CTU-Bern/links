@@ -25,6 +25,11 @@ As it is not possible for an organization to star/follow repositories/organizati
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
-  
+  * [Datamethods reference collection on "common myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
+    * e.g. has sections on post-hoc power, p-values in baseline tables and much more. A very useful resource.
+  * [BBR - Biostats for biomedical research](http://hbiostat.org/bbr/)
+    * Frank Harrell and co's course
+    * [PDF to course material](http://hbiostat.org/doc/bbr.pdf)
+    * [Youtube videos of sessions/"lectures"](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos)
   
 Feel free to add to this list.
