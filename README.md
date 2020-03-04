@@ -31,5 +31,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * Frank Harrell and co's course
     * [PDF to course material](http://hbiostat.org/doc/bbr.pdf)
     * [Youtube videos of sessions/"lectures"](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos)
+  * [Ben Bolkers mixed models 'FAQ'](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
+    * got a question about mixed models (particularly in R, but also in general), there's a chance it's covered there
   
 Feel free to add to this list.
