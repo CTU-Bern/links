@@ -23,9 +23,11 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
+  * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
+  * [Use Notepad++ as an R code editor](https://jekyll.math.byuh.edu/other/howto/notepadpp/using.shtml) (see also [sourceforge for the exe](https://sourceforge.net/projects/npptor/))
   * [Datamethods reference collection on "common myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
     * e.g. has sections on post-hoc power, p-values in baseline tables and much more. A very useful resource.
   * [BBR - Biostats for biomedical research](http://hbiostat.org/bbr/)
