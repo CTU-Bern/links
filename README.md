@@ -15,6 +15,8 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [World banks iefieldkit - commands for data collection](https://github.com/worldbank/iefieldkit)
   * [World banks ietoolkit - commands for impact evaluation](https://github.com/worldbank/ietoolkit)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
+  * Power calculation
+    * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
 * R
   * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
     * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
@@ -25,6 +27,8 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
   * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
   * [Free online resources for learning R](https://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/)
+  * Power calculation:
+    * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
