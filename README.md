@@ -41,5 +41,6 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Youtube videos of sessions/"lectures"](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos)
   * [Ben Bolkers mixed models 'FAQ'](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
     * got a question about mixed models (particularly in R, but also in general), there's a chance it's covered there
+  * [Intro to statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book website (includes PDF)
   
 Feel free to add to this list.
