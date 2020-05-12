@@ -42,5 +42,6 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [Ben Bolkers mixed models 'FAQ'](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
     * got a question about mixed models (particularly in R, but also in general), there's a chance it's covered there
   * [Intro to statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book website (includes PDF)
+  * [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) (even non-parametric ones)
   
 Feel free to add to this list.
