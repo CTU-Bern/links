@@ -47,6 +47,20 @@ As it is not possible for an organization to star/follow repositories/organizati
 * Useful literature
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
 
-
+* Reporting guidelines
+  * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
+    * [Moons et al 2015](http://dx.doi.org/10.7326/M14-0698) 
+    * [Moons et al 2012](http://heart.bmj.com/content/98/9/691)
+    * [TRIPOD checklists](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
+  * STROBE - guidelines for reporting of observational studies
+    * [STROBE website](https://www.strobe-statement.org/index.php?id=strobe-home)
+    * [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
+    * The STROBE statement itself has been published in many journals ([see here](https://www.strobe-statement.org/index.php?id=strobe-publications))
+  * CONSORT - guidelines for publishing RCTs
+    * [Checklist](http://www.consort-statement.org/consort-statement/checklist)
+    * [Statement](http://www.consort-statement.org/consort-2010)
+    * [Flow diagram](http://www.consort-statement.org/consort-statement/flow-diagram)
+    * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM
+    
 
 Feel free to add to this list.
