@@ -1,5 +1,6 @@
 # links
-As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users.
+As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users. This list also contains links to various other things that might be of interest (e.g. guidelines).
+
 * [SCTO Organisation](https://github.com/SwissClinicalTrialOrganisation)
   * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
   * [SecuTrial Recipes (Enhanced version)](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/)
