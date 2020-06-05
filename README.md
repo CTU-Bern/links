@@ -63,6 +63,12 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Statement](http://www.consort-statement.org/consort-2010)
     * [Flow diagram](http://www.consort-statement.org/consort-statement/flow-diagram)
     * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM
+  * PRISMA - guidelines for transparent reporting of systematic reviews
+    * [Homepage](http://www.prisma-statement.org/)
+    * [Checklist](http://www.prisma-statement.org/PRISMAStatement/Checklist)
+    * [Extensions to the original statement](http://www.prisma-statement.org/Extensions/)
+    * [Link registration details page](http://www.prisma-statement.org/Protocols/Registration) where registrations are actually made on [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)
+    * Note that systematic reviews/metaanalyses are sometimes/often rejected by journals for not having been registered
     
 
 Feel free to add to this list.
