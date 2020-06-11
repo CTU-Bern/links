@@ -44,6 +44,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * got a question about mixed models (particularly in R, but also in general), there's a chance it's covered there
   * [Intro to statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book website (includes PDF)
   * [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) (even non-parametric ones)
+  * [Statistical Problems to Document and to Avoid. Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407)
  
 * Useful literature
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
