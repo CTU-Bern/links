@@ -51,6 +51,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
   * [Table 2 Fallacy](https://academic.oup.com/aje/article/177/4/292/147738) on interpretation of model parameters in the presence of confounding/effect modifiers
   * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) book. Uses R for time series analysis and forecasting
+  * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package. 
 
 * Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
