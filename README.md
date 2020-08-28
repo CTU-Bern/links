@@ -19,18 +19,24 @@ As it is not possible for an organization to star/follow repositories/organizati
   * Power calculation
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
 * R
-  * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
-    * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
+  * Packages
+    * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
+      * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
+    * [flowchart - Alan's flowchart package - create flowcharts without needing to play around with the layout (much)](https://github.com/CTU-Bern/flowchart)
+    * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
+    * [atable](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
+    * Power calculation:
+      * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
+      * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
-  * [flowchart - Alan's flowchart package - create flowcharts without needing to play around with the layout (much)](https://github.com/CTU-Bern/flowchart)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
-  * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
-  * [Free online resources for learning R](https://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/)
-  * [atable](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
-  * Power calculation:
-    * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
-    * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
+  * "Books"
+    * [Free online resources for learning R](https://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/)
+    * [Big Book of R](https://www.bigbookofr.com/index.html) - listing of a lot of online R books
+    * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package.
+    * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) Uses R for time series analysis and forecasting
+  
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
@@ -50,8 +56,7 @@ As it is not possible for an organization to star/follow repositories/organizati
 * Useful literature
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
   * [Table 2 Fallacy](https://academic.oup.com/aje/article/177/4/292/147738) on interpretation of model parameters in the presence of confounding/effect modifiers
-  * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) book. Uses R for time series analysis and forecasting
-  * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package. 
+
 
 * Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
