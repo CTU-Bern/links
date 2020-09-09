@@ -36,6 +36,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Big Book of R](https://www.bigbookofr.com/index.html) - listing of a lot of online R books
     * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package.
     * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) Uses R for time series analysis and forecasting
+    * [Data visualization](https://socviz.co/) lots on ggplot and R
   
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
