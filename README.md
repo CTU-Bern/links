@@ -64,6 +64,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Moons et al 2015](http://dx.doi.org/10.7326/M14-0698) 
     * [Moons et al 2012](http://heart.bmj.com/content/98/9/691)
     * [TRIPOD checklists](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
+    * [Alternate site for derivation/validation checklist](https://med.stanford.edu/content/dam/sm/s-spire/documents/ManuscriptQualityChecklists/Tripod-Checklist-Prediction-Model-Development-and-Validation.pdf)
   * STROBE - guidelines for reporting of observational studies
     * [STROBE website](https://www.strobe-statement.org/index.php?id=strobe-home)
     * [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
