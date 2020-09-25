@@ -25,6 +25,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [flowchart - Alan's flowchart package - create flowcharts without needing to play around with the layout (much)](https://github.com/CTU-Bern/flowchart)
     * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
     * [atable](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
+    * [gtsummary](http://www.danieldsjoberg.com/gtsummary/index.html) also for baseline tables. Also flexible.
     * Power calculation:
       * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
       * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
