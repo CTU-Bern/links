@@ -26,6 +26,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
     * [atable](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
     * [gtsummary](http://www.danieldsjoberg.com/gtsummary/index.html) also for baseline tables. Also flexible.
+    * [metamisc](https://cran.r-project.org/web/packages/metamisc/index.html) 'Facilitate meta-analysis of diagnosis and prognosis research studies. It includes functions to summarize multiple estimates of prediction model discrimination and calibration performance, as described by Debray et al. (2019) <doi:10.1177/0962280218785504>. It also includes functions to evaluate funnel plot asymmetry, as described by Debray et al. (2018) <doi:10.1002/jrsm.1266>. Finally, the package provides functions for developing multivariable prediction models from datasets with clustering. '
     * Power calculation:
       * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
       * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
