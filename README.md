@@ -39,6 +39,8 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package.
     * [Forecasting: Principles and Practice](https://otexts.com/fpp2/) Uses R for time series analysis and forecasting
     * [Data visualization](https://socviz.co/) lots on ggplot and R
+    * [Bayesian inference with INLA](https://becarioprecario.bitbucket.io/inla-gitbook/index.html) covers a LOT of INLA stuff.
+    * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/)
   
 * Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
