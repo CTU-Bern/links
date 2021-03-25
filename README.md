@@ -1,11 +1,11 @@
 # links
 As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users. This list also contains links to various other things that might be of interest (e.g. guidelines).
 
-* [SCTO Organisation](https://github.com/SwissClinicalTrialOrganisation)
+## [SCTO Organisation](https://github.com/SwissClinicalTrialOrganisation)
   * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
   * [SecuTrial Recipes (Enhanced version)](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/)
   * [SecuTrial Recipes (GitHub version)](https://github.com/SwissClinicalTrialOrganisation/secuTrial_recipes)
-* Stata
+## Stata
   * [markdoc - literate programming for Stata](https://github.com/haghish/markdoc)
   * [weaver - more dynamic docs from Stata (more like a log file though)](https://github.com/haghish/weaver)
   * [github - install Stata packages from github](https://github.com/haghish/markdoc)
@@ -18,7 +18,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * Power calculation
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
-* R
+## R
   * Packages
     * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
       * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
@@ -29,6 +29,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [metamisc](https://cran.r-project.org/web/packages/metamisc/index.html) 'Facilitate meta-analysis of diagnosis and prognosis research studies. It includes functions to summarize multiple estimates of prediction model discrimination and calibration performance, as described by Debray et al. (2019) <doi:10.1177/0962280218785504>. It also includes functions to evaluate funnel plot asymmetry, as described by Debray et al. (2018) <doi:10.1002/jrsm.1266>. Finally, the package provides functions for developing multivariable prediction models from datasets with clustering. '
     * Power calculation:
       * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
+        * [shiny app](https://shiny.ctu.unibe.ch/presize)
       * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
@@ -43,7 +44,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/)
     * [Michael Clarks documents](https://m-clark.github.io/documents.html) loads of tips and how-to for R
   
-* Misc
+## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
   * [Use Notepad++ as an R code editor](https://jekyll.math.byuh.edu/other/howto/notepadpp/using.shtml) (see also [sourceforge for the exe](https://sourceforge.net/projects/npptor/))
@@ -58,13 +59,20 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [Intro to statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book website (includes PDF)
   * [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) (even non-parametric ones)
   * [Statistical Problems to Document and to Avoid. Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407)
+
+## Sample size
+  * [presize](https://shiny.ctu.unibe.ch/presize)
+  * Stepped wedge
+    * [shiny app for stepped wedge](https://clusterrcts.shinyapps.io/rshinyapp/)
+    * [various resources for stepped wedge](https://steppedwedgehog.blog/resources/#sample)
+
  
-* Useful literature
+## Useful literature
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
   * [Table 2 Fallacy](https://academic.oup.com/aje/article/177/4/292/147738) on interpretation of model parameters in the presence of confounding/effect modifiers
 
 
-* Reporting guidelines
+## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
     * [Moons et al 2015](http://dx.doi.org/10.7326/M14-0698) 
     * [Moons et al 2012](http://heart.bmj.com/content/98/9/691)
