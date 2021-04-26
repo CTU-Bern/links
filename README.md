@@ -59,6 +59,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [Intro to statistical learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book website (includes PDF)
   * [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) (even non-parametric ones)
   * [Statistical Problems to Document and to Avoid. Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407)
+  * [git/github notes](./github)
 
 ## Sample size
   * [presize](https://shiny.ctu.unibe.ch/presize)
