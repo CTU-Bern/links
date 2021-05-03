@@ -31,6 +31,7 @@ As it is not possible for an organization to star/follow repositories/organizati
       * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
         * [shiny app](https://shiny.ctu.unibe.ch/presize)
       * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
+      * [pmsampsize for predictive models](https://CRAN.R-project.org/package=pmsampsize)
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
@@ -66,6 +67,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * Stepped wedge
     * [shiny app for stepped wedge](https://clusterrcts.shinyapps.io/rshinyapp/)
     * [various resources for stepped wedge](https://steppedwedgehog.blog/resources/#sample)
+  * [Sample size for prediction models (pmsampsize for stata and R)]()
 
  
 ## Useful literature
