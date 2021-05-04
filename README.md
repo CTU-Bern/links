@@ -73,7 +73,7 @@ As it is not possible for an organization to star/follow repositories/organizati
 ## Useful literature
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
   * [Table 2 Fallacy](https://academic.oup.com/aje/article/177/4/292/147738) on interpretation of model parameters in the presence of confounding/effect modifiers
-
+  * [Standardized classification and framework for reporting, interpreting, and analysing medication non-adherence in cardiovascular clinical trials: a consensus report from the Non-adherence Academic Research Consortium (NARC)](https://pubmed.ncbi.nlm.nih.gov/29992264/) - a method for handling levels of adherence
 
 ## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
