@@ -92,6 +92,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Flow diagram](http://www.consort-statement.org/consort-statement/flow-diagram)
     * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM
     * [Extension for adaptive designs](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04334-x)
+      * (checklist in the supplementary materials)
   * PRISMA - guidelines for transparent reporting of systematic reviews
     * [Homepage](http://www.prisma-statement.org/)
     * [Checklist](http://www.prisma-statement.org/PRISMAStatement/Checklist)
