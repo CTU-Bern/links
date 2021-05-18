@@ -82,6 +82,8 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Moons et al 2012](http://heart.bmj.com/content/98/9/691)
     * [TRIPOD checklists](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
     * [Alternate site for derivation/validation checklist](https://med.stanford.edu/content/dam/sm/s-spire/documents/ManuscriptQualityChecklists/Tripod-Checklist-Prediction-Model-Development-and-Validation.pdf)
+  * Latent trajectory studies (GRoLTS)
+    * [The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies](https://www.tandfonline.com/doi/full/10.1080/10705511.2016.1247646)
   * STROBE - guidelines for reporting of observational studies
     * [STROBE website](https://www.strobe-statement.org/index.php?id=strobe-home)
     * [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
@@ -99,6 +101,5 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Extensions to the original statement](http://www.prisma-statement.org/Extensions/)
     * [Link registration details page](http://www.prisma-statement.org/Protocols/Registration) where registrations are actually made on [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)
     * Note that systematic reviews/metaanalyses are sometimes/often rejected by journals for not having been registered
-    
 
 Feel free to add to this list.
