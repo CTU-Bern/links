@@ -56,3 +56,11 @@ Could be useful...
 
 Ref:  
 https://www.hostinger.com/tutorials/how-to-rename-a-git-branch/
+
+## Delete a local branch
+
+```
+git branch -d BRANCHNAME
+```
+
+[from here](https://www.git-tower.com/learn/git/faq/delete-local-branch/), which also shows how to delete a remote branch
