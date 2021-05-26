@@ -1,0 +1,43 @@
+on:
+  schedule: # to run on a schedule
+    - cron: 3 0 * * 5 
+  push: # to run anytime master or main changes
+  	- master
+	- main
+  workflow_dispatch: # to run gh action on buttonpress
+
+name: sync-repos
+
+jobs:
+  sync-repos:
+    runs-on: ubuntu-20.04
+    env:
+      RSPM: https://packagemanager.rstudio.com/cran/__linux__/focal/latest
+      GITHUB_PAT: ${{ secrets.GH_PAT }}
+
+    steps:
+      - name: Checkout public data repo
+        uses: actions/checkout@v2
+        with:
+          path: public
+          repository: dynastyprocess/data
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Checkout private db repo
+        uses: actions/checkout@v2
+        with:
+          path: private
+		  
+	  - name: Copy 
+	  	working-directory: ./private
+	  	run: |
+			cp README.md ../public/README.md
+	 
+	  - name: Commit
+	  	working-directory: ./public
+		run: |
+		  git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Automated readme sync `date`" || echo "No changes to commit"
+          git push origin master
