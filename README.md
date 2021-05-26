@@ -45,6 +45,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Bayesian inference with INLA](https://becarioprecario.bitbucket.io/inla-gitbook/index.html) covers a LOT of INLA stuff.
     * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/)
     * [Michael Clarks documents](https://m-clark.github.io/documents.html) loads of tips and how-to for R
+    * [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
   
 ## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
