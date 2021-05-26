@@ -64,3 +64,7 @@ git branch -d BRANCHNAME
 ```
 
 [from here](https://www.git-tower.com/learn/git/faq/delete-local-branch/), which also shows how to delete a remote branch
+
+
+## Sync private/public repos
+A repo cannot be simultaneously private and public, just one or the other. It is possible to use GH actions to sync content. The action can be found [here](ghaction_syncRepos.yaml). Note that you need to modify the repository path on line 23. The file may also need some cleaning up for spaces...
