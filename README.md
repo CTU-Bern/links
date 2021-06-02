@@ -1,5 +1,5 @@
 # links
-As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users. This list also contains links to various other things that might be of interest (e.g. guidelines).
+As it is not possible for an organization to star/follow repositories/organizations, here is a list of potentially interesting github repositories/organizations/users and links to various other things that might be of interest (e.g. guidelines, papers, ...).
 
 ## [SCTO Organisation](https://github.com/SwissClinicalTrialOrganisation)
   * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
@@ -69,7 +69,17 @@ As it is not possible for an organization to star/follow repositories/organizati
   * Stepped wedge
     * [shiny app for stepped wedge](https://clusterrcts.shinyapps.io/rshinyapp/)
     * [various resources for stepped wedge](https://steppedwedgehog.blog/resources/#sample)
-  * [Sample size for prediction models (pmsampsize for stata and R)](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992)
+  * Sample size for prediction models 
+    * [A note on estimating the Cox-Snell R2 from a reported C statistic (AUROC) to inform sample size calculations for developing a prediction model with a binary outcome](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.8806)
+    * [Sample size for binary logistic prediction models: Beyond events per variable criteria](https://doi.org/10.1177/0962280218784726)
+    * [Calculating the sample size required for developing a clinical prediction model](https://doi.org/10.1136/bmj.m441)
+    * [No rationale for 1 variable per 10 events criterion for binary logistic regression analysis](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0267-3)
+    * [Minimum sample size for developing a multivariable prediction model: Part I – Continuous outcomes](https://doi.org/10.1002/sim.7993)
+    * [Minimum sample size for external validation of a clinical prediction model with a continuous outcome](https://doi.org/10.1002/sim.8766)
+    * [Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992) (pmsampsize for stata and R)
+    * [Minimum sample size for external validation of a clinical prediction model with a binary outcome](https://onlinelibrary.wiley.com/doi/10.1002/sim.9025?af=R) 
+    * [Sample size considerations and predictive performance of multinomial logistic prediction models](https://doi.org/10.1002/sim.8063)
+    * [Adaptive sample size determination for the development of clinical prediction models](https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-021-00096-5)
 
  
 ## Useful literature
