@@ -69,7 +69,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * Stepped wedge
     * [shiny app for stepped wedge](https://clusterrcts.shinyapps.io/rshinyapp/)
     * [various resources for stepped wedge](https://steppedwedgehog.blog/resources/#sample)
-  * [Sample size for prediction models (pmsampsize for stata and R)]()
+  * [Sample size for prediction models (pmsampsize for stata and R)](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992)
 
  
 ## Useful literature
