@@ -46,6 +46,17 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/)
     * [Michael Clarks documents](https://m-clark.github.io/documents.html) loads of tips and how-to for R
     * [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
+  * tidymodel resources (mostly from [here](https://twitter.com/PipingHotData/status/1400278485327876096))
+    * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+    * [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/)
+    * [Choose your own tidymodels adventure](https://www.tidyverse.org/blog/2021/05/choose-tidymodels-adventure/)
+    * [Tidy Modeling with R](https://www.tmwr.org/) (a tidymodels pagedown)
+    * [Get started with tidymodels and #TidyTuesday Palmer penguins](https://juliasilge.com/blog/palmer-penguins/)
+      * and [generally other stuff](https://juliasilge.com/) from [Julia Silge](https://twitter.com/juliasilge)
+    * [tidmodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+    * the [tidymodels site](https://www.tidymodels.org/), of course
+    * [notes on a book club](https://r4ds.github.io/bookclub-tmwr/) from the R4DS people
+
   
 ## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
