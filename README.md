@@ -46,6 +46,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/)
     * [Michael Clarks documents](https://m-clark.github.io/documents.html) loads of tips and how-to for R
     * [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
+    * [An Introduction for Statistical Learning](https://www.statlearning.com/) includes a link to the PDF of the 1st edition
   * tidymodel resources (mostly from [here](https://twitter.com/PipingHotData/status/1400278485327876096))
     * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
     * [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/)
@@ -91,6 +92,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Minimum sample size for external validation of a clinical prediction model with a binary outcome](https://onlinelibrary.wiley.com/doi/10.1002/sim.9025?af=R) 
     * [Sample size considerations and predictive performance of multinomial logistic prediction models](https://doi.org/10.1002/sim.8063)
     * [Adaptive sample size determination for the development of clinical prediction models](https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-021-00096-5)
+    * [Some suggestions for measuring predictive performance](https://link.springer.com/article/10.1007/BF01060893)
 
  
 ## Useful literature
