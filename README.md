@@ -57,6 +57,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [tidmodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
     * the [tidymodels site](https://www.tidymodels.org/), of course
     * [notes on a book club](https://r4ds.github.io/bookclub-tmwr/) from the R4DS people
+    * [tidymodels labes based on An Intro to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
   * [marginal means from models with interactions](https://grantmcdermott.com/interaction-effects/)
 
   
