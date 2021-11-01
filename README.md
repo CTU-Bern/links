@@ -101,6 +101,8 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [A simple, step-by-step guide to interpreting decision curve analysis](https://doi.org/10.1186/s41512-019-0064-7)
   * [Table 2 Fallacy](https://academic.oup.com/aje/article/177/4/292/147738) on interpretation of model parameters in the presence of confounding/effect modifiers
   * [Standardized classification and framework for reporting, interpreting, and analysing medication non-adherence in cardiovascular clinical trials: a consensus report from the Non-adherence Academic Research Consortium (NARC)](https://pubmed.ncbi.nlm.nih.gov/29992264/) - a method for handling levels of adherence
+  * [Introduction to computational causal inference using reproducible Stata, R, and Python code: A tutorial](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9234?campaign=wolearlyview) - We illustrate the implementation of different methods [G formula/methods, IPTW, MSM, double-robust, targeted maximum likelihood estimation (TMLE)] using an empirical example from the Connors study based on intensive care medicine, and most importantly, we provide reproducible and commented code in Stata, R, and Python for researchers to adapt in their own observational study. 
+    * [R, Stata and SAS code is available here](https://github.com/migariane/TutorialComputationalCausalInferenceEstimators)
 
 ## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
