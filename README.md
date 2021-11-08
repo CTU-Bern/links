@@ -15,6 +15,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [fastreshape - a faster variant of reshape (syntax is almost identical to reshape)](https://github.com/mdroste/stata-fastreshape)
   * [World banks iefieldkit - commands for data collection](https://github.com/worldbank/iefieldkit)
   * [World banks ietoolkit - commands for impact evaluation](https://github.com/worldbank/ietoolkit)
+  * [World banks stata-linter](https://github.com/worldbank/stata-linter) for tidying code/highlighting poor coding practices
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * Power calculation
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
