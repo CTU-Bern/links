@@ -5,6 +5,10 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [SecuTrial R package](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
   * [SecuTrial Recipes (Enhanced version)](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/)
   * [SecuTrial Recipes (GitHub version)](https://github.com/SwissClinicalTrialOrganisation/secuTrial_recipes)
+
+
+  * [CTU Basel](https://github.com/CTU-Basel)
+  
 ## Stata
   * [markdoc - literate programming for Stata](https://github.com/haghish/markdoc)
   * [weaver - more dynamic docs from Stata (more like a log file though)](https://github.com/haghish/weaver)
