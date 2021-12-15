@@ -114,6 +114,8 @@ As it is not possible for an organization to star/follow repositories/organizati
     *  Other possible CIs - [Some new confidence intervals for Kaplan-Meier based estimators from one and two sample survival data](https://onlinelibrary.wiley.com/doi/10.1002/sim.9105)
     *  [Are restricted mean survival time methods especially useful for noninferiority trials?](https://journals.sagepub.com/doi/full/10.1177/1740774520976576)
     *  [Why restricted mean survival time methods are especially useful for non-inferiority trials](https://journals.sagepub.com/doi/pdf/10.1177/17407745211045124)
+    *  [Adding a new analytical procedure with clinical interpretation in the tool box of survival analysis](https://www.sciencedirect.com/science/article/pii/S0923753419345612)
+    *  [Utility of Restricted Mean Survival Time Analysis for Heart Failure Clinical Trial Evaluation and Interpretation](https://www.sciencedirect.com/science/article/pii/S2213177920304558)
   *  [When and how should multiple imputation be used for handling missing data in randomised clinical trials – a practical guide with flowcharts](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-017-0442-1) - useful as a reference for the choice of 5% missing to start using MI and >40% missing as a reason to stop
   *  [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967)
     
