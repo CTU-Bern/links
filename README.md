@@ -65,6 +65,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [tidymodels labes based on An Intro to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
     * not tidymodels, but ML... [code for ML by ML in neuroscience lab in zurich](https://micnlab.com/files/)
       * and [their paper on ML for clinicians](https://arxiv.org/abs/2006.15069) which refers to the code
+    * also not strictly tidymodels, but ML [a comic book on ML in R](https://betaandbit.github.io/RML/)
   * [marginal means from models with interactions](https://grantmcdermott.com/interaction-effects/)
   * [mapping with R - gallery of maps from the #30DayMapChallenge with links to code](https://david.frigge.nz/3RDayMapChallenge/)
   
