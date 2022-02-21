@@ -53,6 +53,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
     * [An Introduction for Statistical Learning](https://www.statlearning.com/) includes a link to the PDF of the 1st edition
     * [Statistical rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/4857/) is based on "Statistical rethinking" and fits models with the rbms package
+    * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) includes a link to the 2nd edition
   * tidymodel resources (mostly from [here](https://twitter.com/PipingHotData/status/1400278485327876096))
     * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
     * [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/)
