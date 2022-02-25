@@ -139,7 +139,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Checklist](http://www.consort-statement.org/consort-statement/checklist)
     * [Statement](http://www.consort-statement.org/consort-2010)
     * [Flow diagram](http://www.consort-statement.org/consort-statement/flow-diagram)
-    * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM
+    * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM (see also the [Datamethods reference collection on "common myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787))
     * [Extension for adaptive designs](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04334-x)
       * (checklist in the supplementary materials)
   * PRISMA - guidelines for transparent reporting of systematic reviews
@@ -148,5 +148,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Extensions to the original statement](http://www.prisma-statement.org/Extensions/)
     * [Link registration details page](http://www.prisma-statement.org/Protocols/Registration) where registrations are actually made on [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)
     * Note that systematic reviews/metaanalyses are sometimes/often rejected by journals for not having been registered
+
+The [EQUATOR Network](https://www.equator-network.org/) also has links to many other guidelines (SPIRIT, CARE, AGREE, ...)
 
 Feel free to add to this list.
