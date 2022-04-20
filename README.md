@@ -153,8 +153,9 @@ As it is not possible for an organization to star/follow repositories/organizati
 The [EQUATOR Network](https://www.equator-network.org/) also has links to many other guidelines (SPIRIT, CARE, AGREE, ...)
 
 Not a reporting guideline per se, but a method of assessing risk of bias and applicability of prediction model studies - [PROBAST](www.probast.org)
-  * [paper](https://www.acpjournals.org/doi/10.7326/M18-1376)
-  * [further explanations and elaboration](https://www.acpjournals.org/doi/10.7326/M18-1377)
+  * [PROBAST paper](https://www.acpjournals.org/doi/10.7326/M18-1376)
+  * [further explanations and elaboration of PROBAST](https://www.acpjournals.org/doi/10.7326/M18-1377)
+  * useful along side TRIPOD perhaps?
 
 
 Feel free to add to this list.
