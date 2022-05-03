@@ -77,7 +77,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
   * [Use Notepad++ as an R code editor](https://jekyll.math.byuh.edu/other/howto/notepadpp/using.shtml) (see also [sourceforge for the exe](https://sourceforge.net/projects/npptor/))
   * [Datamethods reference collection on "common myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
-    * e.g. has sections on post-hoc power, p-values in baseline tables and much more. A very useful resource.
+    * e.g. has sections on post-hoc power (see also [this paper from Feb. 2022](https://www.sciencedirect.com/science/article/pii/S0889540621006971?via%3Dihub)), p-values in baseline tables and much more. A very useful resource.
   * [BBR - Biostats for biomedical research](http://hbiostat.org/bbr/)
     * Frank Harrell and co's course
     * [PDF to course material](http://hbiostat.org/doc/bbr.pdf)
