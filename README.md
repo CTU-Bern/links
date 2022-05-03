@@ -157,5 +157,6 @@ Not a reporting guideline per se, but a method of assessing risk of bias and app
   * [further explanations and elaboration of PROBAST](https://www.acpjournals.org/doi/10.7326/M18-1377)
   * useful along side TRIPOD perhaps?
 
+[The COMET Initiative](https://www.comet-initiative.org/) has a searchable list of standardised outcome sets for diseases, conditions etc.
 
 Feel free to add to this list.
