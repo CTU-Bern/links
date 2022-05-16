@@ -106,6 +106,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Sample size considerations and predictive performance of multinomial logistic prediction models](https://doi.org/10.1002/sim.8063)
     * [Adaptive sample size determination for the development of clinical prediction models](https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-021-00096-5)
     * [Some suggestions for measuring predictive performance](https://link.springer.com/article/10.1007/BF01060893)
+  * [WebPower](https://cran.r-project.org/web/packages/WebPower) - pretty powerful looking [website](https://webpower.psychstat.org/wiki/)/R package with a wide range of methods/tests.
 
  
 ## Useful literature
