@@ -74,7 +74,11 @@ As it is not possible for an organization to star/follow repositories/organizati
 
 
 #### Validation
-Validating R itself is a big task. The [R validation hub](https://www.pharmar.org/overview/) has various info on the topic, including a [white paper](https://www.pharmar.org/white-paper/). They have also created an R Package, [`riskmetric`](https://pharmar.github.io/riskmetric/index.html) for estimating the risk posed by a given package based on it's documentation, bugs/issues, downloads etc. The [`valtools` package](https://github.com/phuse-org/valtools) may be useful for documenting validation of R packages (see a presentation on the package [here](https://www.youtube.com/watch?v=HVd5iGTNLGE))
+Validating R itself is a big task. The R Foundation Board has a [statement on the issue](https://www.r-project.org/doc/R-FDA.pdf) which covers a few points that need not be covered by a validation of R itself (as they should be covered by the host system, e.g. Windows, MacOS, ...), but puts the onus for other issues in the hands of the organisation using the software. 
+
+The [R validation hub](https://www.pharmar.org/overview/) has various info on the topic, including a [white paper](https://www.pharmar.org/white-paper/). They have also created an R Package, [`riskmetric`](https://pharmar.github.io/riskmetric/index.html) for estimating the risk posed by a given package based on it's documentation, bugs/issues, downloads etc. 
+
+The [`valtools` package](https://github.com/phuse-org/valtools) may be useful for documenting validation of R packages (see a presentation on the package [here](https://www.youtube.com/watch?v=HVd5iGTNLGE))
   
 ## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
