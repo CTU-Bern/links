@@ -89,6 +89,7 @@ The [`valtools` package](https://github.com/phuse-org/valtools) may be useful fo
   * [BBR - Biostats for biomedical research](http://hbiostat.org/bbr/)
     * Frank Harrell and co's course
     * [PDF to course material](http://hbiostat.org/doc/bbr.pdf)
+    * [ebook website](http://hbiostat.org/bbr/)
     * [Youtube videos of sessions/"lectures"](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos)
   * [Ben Bolkers mixed models 'FAQ'](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
     * got a question about mixed models (particularly in R, but also in general), there's a chance it's covered there
