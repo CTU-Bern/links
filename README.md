@@ -167,6 +167,8 @@ Not a reporting guideline per se, but a method of assessing risk of bias and app
   * [PROBAST paper](https://www.acpjournals.org/doi/10.7326/M18-1376)
   * [further explanations and elaboration of PROBAST](https://www.acpjournals.org/doi/10.7326/M18-1377)
   * useful along side TRIPOD perhaps?
+  * use of PROBAST to [assess ML models in ocology](https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-022-00126-w). Long story short, most models are high risk 
+    > 123 (81%, 95% CI: 73.8 to 86.4) developed models and 19 (51%, 95% CI: 35.1 to 67.3) validated models were at high risk of bias due to their analysis, mostly due to shortcomings in the analysis including insufficient sample size and split-sample internal validation
 
 [The COMET Initiative](https://www.comet-initiative.org/) has a searchable list of standardised outcome sets for diseases, conditions etc.
 
