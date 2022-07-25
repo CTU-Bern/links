@@ -33,6 +33,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [gtsummary](http://www.danieldsjoberg.com/gtsummary/index.html) also for baseline tables. Also flexible.
     * [metamisc](https://cran.r-project.org/web/packages/metamisc/index.html) 'Facilitate meta-analysis of diagnosis and prognosis research studies. It includes functions to summarize multiple estimates of prediction model discrimination and calibration performance, as described by Debray et al. (2019) <doi:10.1177/0962280218785504>. It also includes functions to evaluate funnel plot asymmetry, as described by Debray et al. (2018) <doi:10.1002/jrsm.1266>. Finally, the package provides functions for developing multivariable prediction models from datasets with clustering. '
     * [ipcwswitch](https://www.sciencedirect.com/science/article/abs/pii/S0010482519302082?via%3Dihub) 'Inverse Probability of Censoring Weights to Deal with Treatment Switch in Randomized Clinical Trials'
+    * [margins](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html) ports much of Stata's margins function to R
     * Power calculation:
       * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
         * [shiny app](https://shiny.ctu.unibe.ch/presize)
