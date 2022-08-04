@@ -42,7 +42,7 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
-  * "Books"
+  * "Books" etc
     * [Free online resources for learning R](https://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/)
     * [Big Book of R](https://www.bigbookofr.com/index.html) - listing of a lot of online R books
     * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) book from the author of the `mice` package.
@@ -57,6 +57,11 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) includes a link to the 2nd edition
     * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/welcome.html)
     * [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) by Roger Peng and Elizabeth Matsui
+    * [RStudio::conf materials](https://github.com/rstudio/rstudio-conf) contains (some) talks and workshops from the different conferences
+      * [ggplot2 with Cedric Scherer](https://github.com/rstudio-conf-2022/ggplot2-graphic-design)
+      * [Quarto with Tom Mock (Getting started with Quarto)](https://github.com/rstudio-conf-2022/get-started-quarto) or [Andrew Bray (From Rmd to qmd)](https://github.com/rstudio-conf-2022/rmd-to-quarto)
+      * [Causal inference with Lucy D'Agostino McGowan + Malcolm Barrett](https://github.com/rstudio-conf-2022/causal-inference-rstats)
+      * and much more...
   * tidymodel resources (mostly from [here](https://twitter.com/PipingHotData/status/1400278485327876096))
     * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
     * [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/)
@@ -68,6 +73,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * the [tidymodels site](https://www.tidymodels.org/), of course
     * [notes on a book club](https://r4ds.github.io/bookclub-tmwr/) from the R4DS people
     * [tidymodels labes based on An Intro to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+    * [RStudio::conf 2022 workshop on tidymodels](https://github.com/rstudio-conf-2022/tidymodels-ml) by Julia Silge + Max Kuhn + David Robinson
     * not tidymodels, but ML... [code for ML by ML in neuroscience lab in zurich](https://micnlab.com/files/)
       * and [their paper on ML for clinicians](https://arxiv.org/abs/2006.15069) which refers to the code
     * also not strictly tidymodels, but ML [a comic book on ML in R](https://betaandbit.github.io/RML/)
