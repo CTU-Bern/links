@@ -25,20 +25,21 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
 ## R
   * Packages
-    * [Gmisc - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
+    * [`Gmisc` - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
       * [Link to vignette](https://cran.r-project.org/web/packages/Gmisc/vignettes/Grid-based_flowcharts.html)
     * [flowchart - Alan's flowchart package - create flowcharts without needing to play around with the layout (much)](https://github.com/CTU-Bern/flowchart)
-    * Predictions from mixed models, with SEs are available in the [AICcmodavg](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
-    * [atable](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
-    * [gtsummary](http://www.danieldsjoberg.com/gtsummary/index.html) also for baseline tables. Also flexible.
-    * [metamisc](https://cran.r-project.org/web/packages/metamisc/index.html) 'Facilitate meta-analysis of diagnosis and prognosis research studies. It includes functions to summarize multiple estimates of prediction model discrimination and calibration performance, as described by Debray et al. (2019) <doi:10.1177/0962280218785504>. It also includes functions to evaluate funnel plot asymmetry, as described by Debray et al. (2018) <doi:10.1002/jrsm.1266>. Finally, the package provides functions for developing multivariable prediction models from datasets with clustering. '
-    * [ipcwswitch](https://www.sciencedirect.com/science/article/abs/pii/S0010482519302082?via%3Dihub) 'Inverse Probability of Censoring Weights to Deal with Treatment Switch in Randomized Clinical Trials'
-    * [margins](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html) ports much of Stata's margins function to R
+    * Predictions from mixed models, with SEs are available in the [`AICcmodavg`](https://cran.r-project.org/web/packages/AICcmodavg/index.html) package
+    * [`atable`](https://cran.r-project.org/web/packages/atable/index.html) package for baseline tables. Very flexible.
+    * [`gtsummary`](http://www.danieldsjoberg.com/gtsummary/index.html) also for baseline tables. Also flexible.
+    * [`metamisc`](https://cran.r-project.org/web/packages/metamisc/index.html) 'Facilitate meta-analysis of diagnosis and prognosis research studies. It includes functions to summarize multiple estimates of prediction model discrimination and calibration performance, as described by Debray et al. (2019) <doi:10.1177/0962280218785504>. It also includes functions to evaluate funnel plot asymmetry, as described by Debray et al. (2018) <doi:10.1002/jrsm.1266>. Finally, the package provides functions for developing multivariable prediction models from datasets with clustering. '
+    * [`ipcwswitch`](https://www.sciencedirect.com/science/article/abs/pii/S0010482519302082?via%3Dihub) 'Inverse Probability of Censoring Weights to Deal with Treatment Switch in Randomized Clinical Trials'
+    * [`margins`](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html) ports much of Stata's margins function to R
     * Power calculation:
-      * [presize - precision based sample size calculation](https://github.com/CTU-Bern/presize)
+      * [`presize` - precision based sample size calculation](https://github.com/CTU-Bern/presize)
         * [shiny app](https://shiny.ctu.unibe.ch/presize)
       * [Simon's two stage design and various Bayesian approaches for single arm studies](https://cran.r-project.org/web/packages/EurosarcBayes/index.html)
-      * [pmsampsize for predictive models](https://CRAN.R-project.org/package=pmsampsize)
+      * [`pmsampsize` for predictive models](https://CRAN.R-project.org/package=pmsampsize)
+    * [`ggsurvfit`](https://CRAN.R-project.org/package=ggsurvfit) for KM plots
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * [Scottish health/social care - Various stuff including funnel plots](https://github.com/Health-SocialCare-Scotland/R-Resources)
   * [R package template (based on secuTrialR).](https://github.com/CTU-Basel/pkgTemplateR) Includes e.g. continuous integration testing with appveyor and TravisCI. Click the "use this template" button to copy it to a new repo (under a new name) then edit it as required.
