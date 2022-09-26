@@ -89,6 +89,8 @@ The [R validation hub](https://www.pharmar.org/overview/) has various info on th
 
 The [`valtools` package](https://github.com/phuse-org/valtools) may be useful for documenting validation of R packages (see a presentation on the package [here](https://www.youtube.com/watch?v=HVd5iGTNLGE))
   
+Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/1536867X0100100102
+
 ## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
   * [Use Notepad++ as a Stata editor](https://huebler.blogspot.com/2008/04/stata.html)
