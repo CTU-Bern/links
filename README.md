@@ -166,6 +166,7 @@ Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/15
     * DISCOURAGES USE OF P-VALUES/CONFIDENCE INTERVALS/STANDARD ERRORS IN DESCRIPTIVE TABLES (e.g. Table 1) - POSSIBLY USEFUL TO REFUTE REVIEWER REQUESTS FOR THEM (see also the [Datamethods reference collection on "common myths"](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787))
     * [Extension for adaptive designs](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04334-x)
       * (checklist in the supplementary materials)
+    * [CONSORT-AI](https://www.clinical-trials.ai/consort) site, including checklist, and the [publication](https://www.nature.com/articles/s41591-020-1034-x)
   * PRISMA - guidelines for transparent reporting of systematic reviews
     * [Homepage](http://www.prisma-statement.org/)
     * [Checklist](http://www.prisma-statement.org/PRISMAStatement/Checklist)
@@ -183,5 +184,9 @@ Not a reporting guideline per se, but a method of assessing risk of bias and app
     > 123 (81%, 95% CI: 73.8 to 86.4) developed models and 19 (51%, 95% CI: 35.1 to 67.3) validated models were at high risk of bias due to their analysis, mostly due to shortcomings in the analysis including insufficient sample size and split-sample internal validation
 
 [The COMET Initiative](https://www.comet-initiative.org/) has a searchable list of standardised outcome sets for diseases, conditions etc.
+
+[SPIRIT](https://www.spirit-statement.org/) (Standard Protocol Items: Recommendations for Interventional Trials)
+  * [SPIRIT-AI](https://www.clinical-trials.ai/spirit) website and [publication](https://www.nature.com/articles/s41591-020-1037-7)
+  
 
 Feel free to add to this list.
