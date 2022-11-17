@@ -149,6 +149,7 @@ Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/15
 
 ## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
+    * [Moons et al 2011](https://heart.bmj.com/content/98/9/683.short)
     * [Moons et al 2015](http://dx.doi.org/10.7326/M14-0698) 
     * [Moons et al 2012](http://heart.bmj.com/content/98/9/691)
     * [TRIPOD checklists](https://www.equator-network.org/reporting-guidelines/tripod-statement/)
