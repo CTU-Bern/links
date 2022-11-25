@@ -88,6 +88,8 @@ Validating R itself is a big task. The R Foundation Board has a [statement on th
 The [R validation hub](https://www.pharmar.org/overview/) has various info on the topic, including a [white paper](https://www.pharmar.org/white-paper/). They have also created an R Package, [`riskmetric`](https://pharmar.github.io/riskmetric/index.html) for estimating the risk posed by a given package based on it's documentation, bugs/issues, downloads etc. 
 
 The [`valtools` package](https://github.com/phuse-org/valtools) may be useful for documenting validation of R packages (see a presentation on the package [here](https://www.youtube.com/watch?v=HVd5iGTNLGE)) and a [white paper on the topic](https://phuse.s3.eu-central-1.amazonaws.com/Deliverables/Data+Visualisation+%26+Open+Source+Technology/WP059.pdf) from the PHUSE group.
+
+Information from RStudio on [environment validation](https://solutions.rstudio.com/environments/validation/)
   
 Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/1536867X0100100102
 
