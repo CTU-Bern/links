@@ -147,7 +147,7 @@ Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/15
   *  [When and how should multiple imputation be used for handling missing data in randomised clinical trials – a practical guide with flowcharts](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-017-0442-1) - useful as a reference for the choice of 5% missing to start using MI and >40% missing as a reason to stop
   *  [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967)
   *  [Lessons learnt when accounting for competing events in the external validation of time-to-event prognostic models](https://academic.oup.com/ije/article/51/2/615/6468864) - long story short... its important...
-    
+  * [FDA guidance on multiple testing in clinical trials](https://www.fda.gov/media/162416/download)
 
 ## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
