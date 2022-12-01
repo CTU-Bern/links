@@ -23,6 +23,8 @@ As it is not possible for an organization to star/follow repositories/organizati
   * [CodeMap - MAC application for examining dependencies in R or Stata analyses](https://github.com/haghish/CodeMap)
   * Power calculation
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
+  * equivalent of R's here package for Stata: [here](https://github.com/korenmiklos/here)
+  
 ## R
   * Packages
     * [`Gmisc` - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
