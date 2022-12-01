@@ -82,6 +82,7 @@ As it is not possible for an organization to star/follow repositories/organizati
     * also not strictly tidymodels, but ML [a comic book on ML in R](https://betaandbit.github.io/RML/)
   * [marginal means from models with interactions](https://grantmcdermott.com/interaction-effects/)
   * [mapping with R - gallery of maps from the #30DayMapChallenge with links to code](https://david.frigge.nz/3RDayMapChallenge/)
+  * Discussions on .Rproj and here - [Jenny Bryan is for them: Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/), while [Tarak Shah seems to be against them: .Rproj considered harmful](https://hrdag.org/tech-notes/harmful.html#the-manual-unit-test)
 
 
 #### Validation
@@ -94,6 +95,8 @@ The [`valtools` package](https://github.com/phuse-org/valtools) may be useful fo
 Information from RStudio on [environment validation](https://solutions.rstudio.com/environments/validation/)
   
 Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/1536867X0100100102
+
+[Verifizierung und Validierung: Unterschied & Definitionen](https://www.johner-institut.de/blog/iec-62304-medizinische-software/verifizierung-und-validierung-von-medizinprodukten/)
 
 ## Misc
   * [StatTag - a method to make dynamic WORD documents, supports Stata, R, and others](https://github.com/stattag)
@@ -150,6 +153,9 @@ Stata's internal approach to testing https://journals.sagepub.com/doi/10.1177/15
   *  [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967)
   *  [Lessons learnt when accounting for competing events in the external validation of time-to-event prognostic models](https://academic.oup.com/ije/article/51/2/615/6468864) - long story short... its important...
   * [FDA guidance on multiple testing in clinical trials](https://www.fda.gov/media/162416/download)
+  * [A roadmap to using randomization in clinical trials](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01303-z) - a comparison of different randomization methods
+  * [Statistical code for clinical research papers in a high-impact specialist medical journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6705117/)
+  * [Ten simple rules for initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819)
 
 ## Reporting guidelines
   * TRIPOD - guidelines for reporting of predictive/prognostic models (validation or derivation)
