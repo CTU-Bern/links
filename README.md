@@ -25,6 +25,11 @@ As it is not possible for an organization to star/follow repositories/organizati
     * [Simon's two stage design](https://ideas.repec.org/c/boc/bocode/s457081.html)
   * equivalent of R's here package for Stata: [here](https://github.com/korenmiklos/here)
   
+#### Validation
+  
+  * [Stata installation qualification tool](https://www.stata.com/support/installation-qualification/)
+  * [Stata and FDA regulatory compliance](https://www.stata.com/stata-fda-compliance/)
+  
 ## R
   * Packages
     * [`Gmisc` - package that includes a nice approach to creating flowcharts](https://github.com/gforge/Gmisc)
