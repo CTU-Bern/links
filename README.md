@@ -204,6 +204,9 @@ Not a reporting guideline per se, but a method of assessing risk of bias and app
 
 [SPIRIT](https://www.spirit-statement.org/) (Standard Protocol Items: Recommendations for Interventional Trials)
   * [SPIRIT-AI](https://www.clinical-trials.ai/spirit) website and [publication](https://www.nature.com/articles/s41591-020-1037-7)
-  
+
+[ICEMAN](https://www.iceman.help/overview) provides an approach for assessing the credibility of subgroup analyses.
+  * [publication](https://www.cmaj.ca/content/192/32/E901)
+  * [worksheets](https://www.iceman.help/download)
 
 Feel free to add to this list.
